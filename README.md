@@ -1,7 +1,14 @@
 # Nurman2021.github.io
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zero_nr23)
-[<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Nurman20/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nurman.awaluddin.39)
+<p align="center">
+  
+<img src="https://github.com/Nurman2021/Nurman2021/blob/main/lotus.gif"/>
+</p>
+<p align="center">
+<a href="https://www.instagram.com/zero_nr23"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/Nurman20/"><img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/nurman.awaluddin.39"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
 ![counter](https://komarev.com/ghpvc/?username=Nurman2021&style=flat-square)
 
 
@@ -12,7 +19,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-> I am looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
+> I am looking for opportunities and collabaration in cfeative projects and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 ### Talking about Personal Stuffs:
 
@@ -20,13 +27,13 @@
 - 👨🎓 Experience Level : 3+ years
 - 💻 Interested in : Technology, Psychology, Deep Talk
 - 💡 Equipments : Sarcasm, Knowledge, Cofee
-- ⚡ Fun Fact : **Prefer Chai ☕ over coffee**
+- 🎧 Music : **80's Song**
 
 
 ---
 
 ### 🛠️ Language and Tools :
-<div>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
@@ -35,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="80" height="80" />&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" title="Three JS" alt="Three JS" width="80" height="80" />   
-</div>
+</p>
 
 
 ---
