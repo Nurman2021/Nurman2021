@@ -23,7 +23,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 Portfolio [Coming Soon]
+- 👨‍💻 Portfolio https://noorman.vercel.app/
 - 👨🎓 Experience Level : 3+ years
 - 💻 Interested in : Technology, Psychology, Deep Talk
 - 💡 Equipments : Sarcasm, Knowledge, Cofee
